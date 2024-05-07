@@ -8,15 +8,15 @@ Sempre estudando sobre design e arquitetura de software, aplicando as melhores p
 
 Linguagens que eu utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs&theme=dark)](https://skillicons.dev)
 
 Frameworks e bibliotecas:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,spring,react&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,react&theme=dark&perline=4)](https://skillicons.dev)
 
 Outras tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,jest,mysql,postgres,mongodb,docker,linux,vscode,rabbitmq,postman,express,bootstrap,html,css,git&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,jest,dynamodb,postgres,mongodb,docker,linux,windows,vscode,rabbitmq,kafka,postman,express,bootstrap,html,css,git&theme=dark&perline=4)](https://skillicons.dev)
 
 Para mais informações entre em contato:
 
