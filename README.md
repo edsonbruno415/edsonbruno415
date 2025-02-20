@@ -2,17 +2,17 @@
 
 #### Desenvolvedor Back-end Node.js
 
-Atualmente trabalhando com a construção e manutenção de Chatbots e api's, utilizando Node.js, serverless framework, e plataforma de computação em nuvem AWS.
+Atualmente trabalhando com a construção e manutenção de Chatbots e api's, utilizando Node.js, serverless framework, e a plataforma de computação em nuvem da AWS.
 
-Sempre estudando sobre design e arquitetura de software, aplicando as melhores práticas para um software manutenível e escalável.
+Aprimorando meu conhecimento sobre design, arquitetura de software e melhores práticas para um software manutenível e escalável.
 
 Linguagens que eu utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js&theme=dark)](https://skillicons.dev)
 
 Frameworks e bibliotecas:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,react&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,react&theme=dark&perline=4)](https://skillicons.dev)
 
 Outras tecnologias:
 
