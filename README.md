@@ -1,10 +1,8 @@
-### ✌️ Olá, eu sou Edson Bruno
-
 #### Desenvolvedor Back-end Node.js
 
-Atualmente trabalhando com a construção e manutenção de Chatbots e api's, utilizando Node.js, serverless framework, e a plataforma de computação em nuvem da AWS.
+Atualmente trabalhando com desenvolvimento e manutenção de Chatbots integrados ao WhatsApp e Site.
 
-Aprimorando meu conhecimento sobre design, arquitetura de software e melhores práticas para um software manutenível e escalável.
+Aprimorando meu conhecimento sobre system design, cloud e melhores práticas para um software manutenível e escalável.
 
 Linguagens que eu utilizo:
 
